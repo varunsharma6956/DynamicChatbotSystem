@@ -1,0 +1,16 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore the .env file (contains sensitive data)
+.env
+
+# Ignore Python bytecode and compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore logs
+*.log
+*.csv
+
+# Ignore VSCode workspace settings and extension files (if you use VSCode)
+.vscode/
