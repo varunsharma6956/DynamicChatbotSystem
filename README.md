@@ -1,3 +1,9 @@
+---
+title: special_chatbot
+app_file: src/chatbot.py
+sdk: gradio
+sdk_version: 4.43.0
+---
 Dynamic Chatbot System
 This is a Dynamic Chatbot system built using Gradio, which allows users to select a model from a list of GroqModels and interact with the chatbot by providing system context and user input. The system also provides options for flagging responses if needed.
 
